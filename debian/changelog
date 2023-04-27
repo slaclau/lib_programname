@@ -1,0 +1,5 @@
+python-lib-programname (2.0.5-0) jammy; urgency=medium
+
+  * Initial release.
+
+ -- Sebastien Laclau <seb.laclau@gmail.com>  Thu, 27 Apr 2023 16:32:00 +0100
